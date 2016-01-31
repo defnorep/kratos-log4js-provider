@@ -1,4 +1,3 @@
-import { resolve } from 'path'
 import { Provider } from 'kratos'
 import log4js from 'log4js'
 
